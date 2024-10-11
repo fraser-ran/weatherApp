@@ -14,4 +14,7 @@ The application is written in Python and makes use of the following libraries
 
 Please make sure you have the above libraries downloaded to correctly run the application 
 
+Please make sure you have copied and pasted your API key into the apiKey txt file by getting a free key via:
+  [Link to WEATHER API SITE](https://openweathermap.org/api/one-call-3)
+
 run the application by running "python3 GUI.py" in the command line in the weatherApp directory 
