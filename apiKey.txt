@@ -1,1 +1,1 @@
-2247830921a53f9bb1d26434818c0be6
+follow steps on https://openweathermap.org/api/one-call-3 to get API key
